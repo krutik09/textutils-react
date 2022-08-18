@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/airbnb-react/static/css/main.12d7b95f.css",
-    "main.js": "/airbnb-react/static/js/main.63aace33.js",
-    "static/js/787.9239aff2.chunk.js": "/airbnb-react/static/js/787.9239aff2.chunk.js",
-    "index.html": "/airbnb-react/index.html",
-    "main.12d7b95f.css.map": "/airbnb-react/static/css/main.12d7b95f.css.map",
-    "main.63aace33.js.map": "/airbnb-react/static/js/main.63aace33.js.map",
-    "787.9239aff2.chunk.js.map": "/airbnb-react/static/js/787.9239aff2.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.12d7b95f.css",
-    "static/js/main.63aace33.js"
-  ]
+  "main.css": "/krutik-textutils-react/static/css/main.ceb6153c.chunk.css",
+  "main.js": "/krutik-textutils-react/static/js/main.df5fd5c2.chunk.js",
+  "main.js.map": "/krutik-textutils-react/static/js/main.df5fd5c2.chunk.js.map",
+  "static/js/1.206e060b.chunk.js": "/krutik-textutils-react/static/js/1.206e060b.chunk.js",
+  "static/js/1.206e060b.chunk.js.map": "/krutik-textutils-react/static/js/1.206e060b.chunk.js.map",
+  "static/js/2.578562af.chunk.js": "/krutik-textutils-react/static/js/2.578562af.chunk.js",
+  "static/js/2.578562af.chunk.js.map": "/krutik-textutils-react/static/js/2.578562af.chunk.js.map",
+  "runtime~main.js": "/krutik-textutils-react/static/js/runtime~main.9740c961.js",
+  "runtime~main.js.map": "/krutik-textutils-react/static/js/runtime~main.9740c961.js.map",
+  "static/css/main.ceb6153c.chunk.css.map": "/krutik-textutils-react/static/css/main.ceb6153c.chunk.css.map",
+  "index.html": "/krutik-textutils-react/index.html",
+  "precache-manifest.0a1250aacbb81e4b4b928604e1dcfe0e.js": "/krutik-textutils-react/precache-manifest.0a1250aacbb81e4b4b928604e1dcfe0e.js",
+  "service-worker.js": "/krutik-textutils-react/service-worker.js"
 }
