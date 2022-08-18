@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/krutik-textutils-react/precache-manifest.0a1250aacbb81e4b4b928604e1dcfe0e.js"
+  "/textutils-react/precache-manifest.15a51f892f64fffa665903579ce4a98a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/krutik-textutils-react/index.html", {
+workbox.routing.registerNavigationRoute("/textutils-react/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

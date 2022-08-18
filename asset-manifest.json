@@ -1,15 +1,15 @@
 {
-  "main.css": "/krutik-textutils-react/static/css/main.ceb6153c.chunk.css",
-  "main.js": "/krutik-textutils-react/static/js/main.df5fd5c2.chunk.js",
-  "main.js.map": "/krutik-textutils-react/static/js/main.df5fd5c2.chunk.js.map",
-  "static/js/1.206e060b.chunk.js": "/krutik-textutils-react/static/js/1.206e060b.chunk.js",
-  "static/js/1.206e060b.chunk.js.map": "/krutik-textutils-react/static/js/1.206e060b.chunk.js.map",
-  "static/js/2.578562af.chunk.js": "/krutik-textutils-react/static/js/2.578562af.chunk.js",
-  "static/js/2.578562af.chunk.js.map": "/krutik-textutils-react/static/js/2.578562af.chunk.js.map",
-  "runtime~main.js": "/krutik-textutils-react/static/js/runtime~main.9740c961.js",
-  "runtime~main.js.map": "/krutik-textutils-react/static/js/runtime~main.9740c961.js.map",
-  "static/css/main.ceb6153c.chunk.css.map": "/krutik-textutils-react/static/css/main.ceb6153c.chunk.css.map",
-  "index.html": "/krutik-textutils-react/index.html",
-  "precache-manifest.0a1250aacbb81e4b4b928604e1dcfe0e.js": "/krutik-textutils-react/precache-manifest.0a1250aacbb81e4b4b928604e1dcfe0e.js",
-  "service-worker.js": "/krutik-textutils-react/service-worker.js"
+  "main.css": "/textutils-react/static/css/main.ceb6153c.chunk.css",
+  "main.js": "/textutils-react/static/js/main.df5fd5c2.chunk.js",
+  "main.js.map": "/textutils-react/static/js/main.df5fd5c2.chunk.js.map",
+  "static/js/1.206e060b.chunk.js": "/textutils-react/static/js/1.206e060b.chunk.js",
+  "static/js/1.206e060b.chunk.js.map": "/textutils-react/static/js/1.206e060b.chunk.js.map",
+  "static/js/2.578562af.chunk.js": "/textutils-react/static/js/2.578562af.chunk.js",
+  "static/js/2.578562af.chunk.js.map": "/textutils-react/static/js/2.578562af.chunk.js.map",
+  "runtime~main.js": "/textutils-react/static/js/runtime~main.cff121a4.js",
+  "runtime~main.js.map": "/textutils-react/static/js/runtime~main.cff121a4.js.map",
+  "static/css/main.ceb6153c.chunk.css.map": "/textutils-react/static/css/main.ceb6153c.chunk.css.map",
+  "index.html": "/textutils-react/index.html",
+  "precache-manifest.15a51f892f64fffa665903579ce4a98a.js": "/textutils-react/precache-manifest.15a51f892f64fffa665903579ce4a98a.js",
+  "service-worker.js": "/textutils-react/service-worker.js"
 }
